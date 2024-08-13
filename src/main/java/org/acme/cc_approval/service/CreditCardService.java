@@ -12,4 +12,3 @@ public class CreditCardService {
         return new CreditCard(applicant.getName(), creditLimit);
     }
 }
-
