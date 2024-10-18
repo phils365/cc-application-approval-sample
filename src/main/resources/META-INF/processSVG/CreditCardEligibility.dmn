@@ -179,7 +179,7 @@
     </informationRequirement>
     <literalExpression id="_E7164B4C-59D6-412F-BD38-12B652662D1B" typeRef="string" label="IsEligible">
       <text>if Eligibility Score Calculation &lt; 20 then &quot;rejected&quot;
-else if Eligibility Score Calculation &lt; 60 then &quot;manual&quot;
+else if Eligibility Score Calculation &lt; 50 then &quot;manual&quot;
 else &quot;approved&quot;</text>
     </literalExpression>
   </decision>
